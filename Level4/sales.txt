@@ -1,0 +1,7 @@
+Cheeky Spam 1.00
+total = 1.00
+
+Cheeky Spam 1.00
+Cheerio Spam 2.00
+total = 3.00
+
